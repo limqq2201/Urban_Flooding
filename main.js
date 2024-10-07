@@ -1,4 +1,4 @@
-var map = L.map('map').setView([42.98, -86.44], 8);
+var map = L.map('map').setView([42.35, -83.05], 10);
 //[42.3314, -83.0458]
 
 // Add osm layer
